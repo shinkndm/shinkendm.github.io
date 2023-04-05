@@ -10,9 +10,20 @@
 
 .container{
     width:1170px;
+    margin:20px;
 }
 
 .heading h2{
     font-size:30px;
 }
 
+.middle-icon{
+    position:relative;
+}
+
+.middle-text p{
+    position:absolute;
+    top:15px;
+    left:30px;
+    color:#000000;
+}
